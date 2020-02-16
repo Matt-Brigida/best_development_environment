@@ -1,0 +1,32 @@
+#+title: Best Development Environment in 2020
+#+author: Matt Brigida
+
+* Overview
+
++ Focused on Finance/Data Analytics students.
++ Require a REPL.
++ All are open source.
+
+* VS Code 
+
+** Pros
++ Comes well configured.
++ Will prompt for language support.
+
+** Cons
++ Not available in terminal.
++ How much does it require the mouse?
+
+* Atom
+
+* Vim/Nvim
+
+** Pros
++ Best "text editor".
+
+* Emacs
+
+* Others
+
++ Rstudio
++ Sublime
